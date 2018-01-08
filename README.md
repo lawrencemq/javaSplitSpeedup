@@ -2,7 +2,7 @@ Java Split Speedup
 ==================
 
 Comparing performances between string.split() and regex.split() in Java.
-
+See the blog post [here](https://wordpress.com/post/5280incode.wordpress.com/2761).
 
 ## Objective
 
